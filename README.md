@@ -1,4 +1,4 @@
-# LGMVIP-TASK1
-Create a simple website using HTML CSS JS
+# LGMVIP-TASK1 2
 
-WEBSITE BY Isha Kulkarni
+
+
